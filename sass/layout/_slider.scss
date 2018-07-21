@@ -1,0 +1,32 @@
+.video-slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &__logo {
+        display: flex;
+        align-items: center;
+        align-self: stretch;
+        justify-content: center;
+        flex: 0 0 50%;
+        background-color: #ccc;
+    } 
+
+    &__logo-img {
+
+    }
+
+    &__slider {
+        flex: 1 0 50%;
+        align-self: stretch;
+        overflow: hidden;
+    }
+
+    &__video {
+        transform: scale(1.05);
+    }
+}
+
+.carousel-inner .video-container {
+    min-height: 100%;
+}

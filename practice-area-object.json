@@ -1,0 +1,91 @@
+{
+	"pa1": {
+		"primaryKey":"pa1",
+		"title":"BUSINESS LITIGATION & COMMERCIAL LAW",	
+		"bio":["The Firm provides superior representation in business, transaction and corporate matters, including commercial contract litigation, shareholder disputes, commercial real property leasing, real property purchase and sales agreements, corporate mergers and corporate sale of assets.","Over the years, Robinson Di Lando has successfully represented commercial property developers, corporations and numerous business entities and individuals in litigation and legal counseling.  Robinson Di Lando has also provided consultation to these clients on litigation avoidance."]
+	},
+
+	"pa2": {
+		"primaryKey":"pa2",
+		"title":"CIVIL WRITS AND APPEALS",
+		"bio":["Robinson Di Lando, APLC provides appellate counseling to our clients before trial, during trial, and thereafter. We devise litigation strategies aimed at preserving issues for appeal and we pursue writs to change the outcome of a matter before trial. We have extensive experience briefing and arguing writs and appeals before state and federal appellate courts throughout California."]
+	},
+
+	"pa3": {
+		"primaryKey":"pa3",
+		"title":"CONSTRUCTION DEFECT",
+		"bio":["Robinson Di Lando is able to provide experienced representation to general contractors, developers, sub-contractors and insurance companies in the area of complex construction defect and toxic tort litigation. Focused litigation strategies are developed early so that proper experts can be selected and the proper cross-complaints can be filed.","Michael C. Robinson, Jr. and Michael A. Di Lando oversee the construction defect practice at Robinson  Di Lando.  In addition to Messers. Robinson and Di Lando, Mark Kane handles construction defect matters, which involve general contractors, developers, homeowners, sub-contractors, homeowner associations and governmental agencies.","Over the years, Robinson Di Lando has successfully represented developers, general contractors, commercial property developers, sub-contractors, corporations and numerous business entities in litigation and legal counseling.  Robinson  Di Lando has also provided consultation to these clients on litigation avoidance."]
+	},
+
+	"pa4": {
+		"primaryKey":"pa4",
+		"title":"ELDER / DEPENDENT ADULT ABUSE",
+		"bio":["Robinson Di Lando is experienced in handling high exposure elder and dependent adult abuse claims.  Since the majority of these cases involve seven figure demands comprised of attorney’s fees, punitive damages, and pre-death pain and suffering, our firm vigorously defends these lawsuits from the inception through trial.","Robinson Di Lando represents residential care facilities, nursing homes, hospitals, assisted living facilities, and caretakers in elder and dependent adult abuse cases."]
+	},
+
+	"pa5": {
+		"primaryKey":"pa5",
+		"title":"EMPLOYMENT LITIGATION",
+		"bio":["Robinson Di Lando has a dynamic labor and employment law practice.  The firm regularly represents management in all aspects of labor and employment law, including: EPL litigation; wage and hour matters; NLRB matters; collective bargaining negotiations and administration; employment discrimination; workplace harassment;  wrongful termination; unemployment matters; workplace violence; substance abuse; employee privacy issues; OSHA; ADA; ERISA.  Robinson Di Lando represents clients in administrative proceedings, arbitrations, and state and federal courts.  The firm also provides day-to-day consultation to its clients regarding personnel administration, benefits and litigation avoidance.","The firm’s clients include businesses of all sizes, restaurants, retailers, utility companies, manufacturers, healthcare providers and law enforcement.   The firm has litigated state and federal civil rights matters in California, New Jersey, New Mexico, Nevada and Arizona. "]
+	},
+
+	"pa6": {
+		"primaryKey":"pa6",
+		"title":"ENVIRONMENTAL LAW & TOXIC TORTS",
+		"bio":["Robinson Di Lando is able to provide experienced representation to entities of environmental law and toxic torts.  We have handled nationally media covered and high exposure mold cases in which we have been able to quietly and successfully liberate our clients from potentially expensive lawsuits.  Due to our familiarity in handling mold claims, we are able to save our clients time and money by having much of the research and expert information saved in our extensive compilation of data.","Having deposed and retained experts in the fields of immunology, toxicology, neurology and bioaerosol chemistry we are able to give early and accurate evaluations of a client’s exposure at trial.","We have handled cases involving environmental issues with single-family residences, tract housing, condominiums and commercial properties.  While each case is different, in many instances our experience allows us to note the similarities in these types of cases which then in turn allows us to provide an effective defense plan and budget to our clients.","The firm's clients include insurance companies, independent insurance adjusting companies, developers, major supermarket retailers, and restaurants."]
+	},
+
+	"pa7": {
+		"primaryKey":"pa7",
+		"title":"INSURANCE COVERAGE",
+		"bio":["Robinson Di Lando, APLC has served and serves as coverage counsel for insurance companies based in London as well as the USA. We have coverage experience in most lines of insurance including specialty lines. Robinson Di Lando, APLC prepares skilled and well-reasoned coverage opinions. Robinson Di Lando, APLC also prosecutes and defends declaratory relief actions on behalf of carriers. Robinson Di Lando, APLC is well versed in coverage issues in construction defect claims. We have advised carriers for contractors as well as subcontractors on their coverage obligation and the coverage obligations of other insurers on the risk. At times Robinson Di Lando, APLC is called upon to represent carriers in insurance bad faith claims. Robinson Di Lando, APLC has successfully defended carriers in both State and Federal Courts."]
+	},
+
+	"pa8": { 
+		"primaryKey":"pa8",
+		"title":"INSURANCE DEFENSE",
+		"bio":["Insurance defense litigation is one of the firm’s primary practice areas.  Robinson Di Lando serves as panel counsel to a number of national and international business entities and insurance carriers. Throughout the litigation process, Robinson Di Lando maintains open lines of communication with our clients to achieve the best result.  We also are aware that achieving the best result for the client is not just winning.  Staffing and billing are designed to fit the circumstances of each case.  Where appropriate, we have used innovative billing arrangements, including volume discounts and hybrid arrangements of reduced hourly rates plus contingency fees."]
+	},
+
+	"pa9": {
+		"primaryKey":"pa9",
+		"title":"MEDICAL AND DENTAL MALPRACTICE",
+		"bio":["Robinson Di Lando, APLC has been and is panel counsel for several professional liability medical & dental malpractice carriers that write policies in California. Accordingly, Robinson Di Lando, APLC represents dentists and doctors when these professionals require a defense in malpractice suits. This practice area also includes the defense of nursing-home facilities and elder abuse claims. Our medical and dental liability team has successfully defended health care providers in jury and bench trials, as well as both binding and non-binding arbitrations. While the senior members of the medical/dental liability team have had substantial jury trial experience, the team also has a special expertise in law and motion practice. That is where Robinson Di Lando, APLC separates itself from others. Robinson Di Lando, APLC attorneys have been surprisingly successful in getting claims dismissed through motions for summary judgment, saving their clients thousands in both attorneys’ fees and indemnity dollars."]
+	},
+
+	"pa10": {
+		"primaryKey":"pa10",
+		"title":"PERSONAL INJURY",
+		"bio":["The firm’s main personal injury practice involves large exposure personal injury defense.","Robinson  Di Lando has tried and is currently handling cases involving catastrophic injuries including but not limited to wrongful death, brain injuries (including closed head), and very serious injuries to all parts of the anatomy requiring many surgeries and long hospitalization.","Robinson  Di Lando receives a number of these cases at the “11th hour.”  Primarily due to the firm’s work up of these cases and ability to try these cases, some settle for a sum that is well under the amount contemplated by the client when the case was referred to our firm.","Robinson Di Lando also represents plaintiffs in personal injury claims.  Our firm has obtained many high six-figure awards for our personal injury clients."]
+	},
+
+	"pa11": {
+		"primaryKey":"pa11",
+		"title":"PREMISES LIABILITY",
+		"bio":["Robinson Di Lando has a highly regarded Premises Liability practice.  Our Premises Liability practice has served as a cornerstone of our work for over 25 years, running the gamut from typical slip/trip matters to product liability claims to third party assaults.  Robinson Di Lando has successfully resolved thousands of these cases to the satisfaction of our clients.  The firm represents major supermarket retailers, national restaurant chains, movie theatre chains, government entities, convenience stores, gas stations and several self-insured businesses.","Robinson Di Lando knows how to work seamlessly with our clients to achieve superb results while at the same time minimizing disruption to the clients’ day to day business.  The firm works closely with its clients’ in-house legal departments, risk managers, adjusters, store managers and other personnel to meet the demands of litigation, while at the same time remaining sensitive to the business needs of our clients.","The firm is tireless in its efforts to achieve superb results on each case on a cost efficient basis, whether that requires filing dispositive motions, taking the case to trial/arbitration or engaging in mediation and settlement conferences."]
+	}, 
+
+	"pa12": {
+		"primaryKey":"pa12",
+		"title":"PRODUCT LIABILITY",
+		"bio":["Robinson Di Lando is able to provide experienced representation to manufacturers, distributors and retailers for competitive fees.  Focused litigation strategies are developed early so that proper experts can be selected and effective defenses developed, avoiding the expense and delay in claims evaluation involved in a \"shotgun approach.\"","The firm has handled automotive cases involving such issues as rollover, exploding fuel tanks, failure of welds, sticking door latches, and alleged seatbelt failures. Robinson Di Lando has also represented manufacturers and vendors of cycling equipment, medical supplies and electrical equipment."]
+	},
+
+	"pa13": {
+		"primaryKey":"pa13",
+		"title":"PROFESSIONAL ERRORS & OMISSIONS",
+		"bio":["Robinson Di Lando provides experienced and effective representation to professionals in the areas of law, insurance, real estate medicine and dentistry, and accountancy.  The Firm is experienced and knowledgeable in the unique issues present in representing professionals who have been sued, frequently by former clients.  The Firm employs its expertise to extricate the professional from these claims at the earliest possible time, minimizing disruption to his or her business, and often satisfying the professional’s desire to vindicate their work."]
+	},
+
+	"pa14": {
+		"primaryKey":"pa14",
+		"title":"SUBROGATION",
+		"bio":["Robinson Di Lando, APLC has developed a strong subrogation department based on our years of experience in insurance litigation. Subrogation is a perfect compliment to our insurance defense practice. These claims arise from various casualties including fires, car accidents, embezzlement, and floods. We vigorously pursue the subrogation claims against the adverse parties. Robinson Di Lando coordinates our investigation and evaluation with your claims personnel and consultants to enhance recognition of viable subrogation opportunities."]
+	},
+
+	"pa15": {
+		"primaryKey":"pa15",
+		"title":"WORKERS’ COMPENSATION",
+		"bio":["Robinson Di Lando defends all aspects of Workers’ Compensation claims.  The firm represents clients in matters pertaining to liens, Labor Code 132a actions and Serious and Willful misconduct.  Success at the Workers' Compensation Appeals Board has come in the form of “take nothings”, reconsideration and a published en banc decision.", "Robinson Di Lando's attorneys track all new developments in the ever changing California Workers’ Compensation laws in order to remain efficient in case resolution.  The firm also conducts client workshops, training and presentations regarding current Workers' Compensation law.", "In this specialty, Robinson Di Lando represents insurance companies, self-insured employers, public agencies, third party administrators and a large national restaurant chain."]
+	}
+}
